@@ -1,4 +1,5 @@
-## :mortar_board: Hello, I'm Giuseppe Napoli!
+## :mortar_board: Hello, I'm Giuseppe Napoli! ![immagine](https://user-images.githubusercontent.com/62253855/193663285-55e04c11-4195-45de-a51b-3e48f9fc3258.png)
+
 `````
 const anmol = {
     pronouns: "He" | "Him",
