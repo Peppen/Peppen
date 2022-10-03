@@ -1,4 +1,4 @@
-`const anmol = {
+``const anmol = {
     pronouns: "He" | "Him",
     code: ["Java", "Java Spring", Python"],
     technologies: {
@@ -9,4 +9,4 @@
         databases: ["Mongo", "MySql"]
     }
     funFact: "There are two ways to write error-free programs, only the third one works"
-};`
+};``
