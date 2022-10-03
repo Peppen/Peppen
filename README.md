@@ -16,4 +16,4 @@ const anmol = {
 
 ## About Coding 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=peppen)](https://github.com/peppen/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peppen)](https://github.com/peppen/README.md)
