@@ -1,4 +1,4 @@
-## :mortar_board: Hello, I'm Giuseppe Napoli! <img src="https://giphy.com/stickers/scoob-hello-shrug-doggie-cPBzNOMb42zOilypec.gif">
+## :mortar_board: Hello, I'm Giuseppe Napoli!
 `````
 const anmol = {
     pronouns: "He" | "Him",
@@ -13,3 +13,7 @@ const anmol = {
     funFact: "There are two ways to write error-free programs, only the third one works"
 };
 `````
+
+## About Coding 
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=peppen)](https://github.com/peppen/README.md)
