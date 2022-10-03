@@ -1,4 +1,4 @@
-## :mortar_board: Hello, I'm Giuseppe Napoli! <img src="https://giphy.com/stickers/scoob-hello-shrug-doggie-cPBzNOMb42zOilypec">
+## :mortar_board: Hello, I'm Giuseppe Napoli! <img src="https://giphy.com/stickers/scoob-hello-shrug-doggie-cPBzNOMb42zOilypec.gif">
 `````
 const anmol = {
     pronouns: "He" | "Him",
