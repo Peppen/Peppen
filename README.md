@@ -15,6 +15,6 @@ const anmol = {
 `````
 
 ## About Coding 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peppen&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peppen&show_icons=true&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peppen&layout=compact)
+
