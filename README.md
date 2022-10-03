@@ -1,10 +1,8 @@
-<h2 align="center"> :mortar_board: Hello, I'm Giuseppe Napoli! </h2>
+<h2 align="center"> :mortar_board: Hello, I'm Giuseppe Napoli! :mortar_board: </h2>
 
-<h3 align="center">*Software Developer at Nexsoft S.P.A.* </h3>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+* *Software Developer* 
+* *Master Student in Computer Science at Unisa*
+* *Fun Fact: Music is Life, F1 is a passion*
 
 <p>
 
@@ -20,7 +18,6 @@
       </div>
 
 </p>
-
 
 
 `````
@@ -40,6 +37,10 @@ const anmol = {
 
 ## :computer: About Coding 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peppen&show_icons=true&theme=radical)
+
+<a target="_blank">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 
 
