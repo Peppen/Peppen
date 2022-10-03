@@ -15,6 +15,6 @@ const anmol = {
 };
 `````
 
-## About Coding 
+## :computer: About Coding 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peppen&show_icons=true&theme=radical)
 
