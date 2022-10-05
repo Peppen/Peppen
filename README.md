@@ -31,27 +31,35 @@
 <h1 align="center"> :alien: About Skills </h1>
 
 `````
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Java", "Python"],
-    frameworks: ["Spring"]
-    technologies: {
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker", "Maven"],
-	tools: ["GIT", "SVN"],
-        databases: ["Mongo", "MySql", "Dynamo"]
-    }
-    funFact: "There are two ways to write error-free programs, only the third one works"
-};
+class Peppen:
+
+    def __init__(self):
+        self.username = 'peppen'
+        self.name = 'Giuseppe Napoli'
+	self.instagram = 'peppen_20'
+        self.twitter = '@peppenapoli_8'
+        self.code = {
+            'backend': ['Python', 'Java'],
+	    'frameworks': ['Java Spring'],
+	    'mobileapp' : ['Android'],
+            'database': ['MySQL','Mongo DB', 'Dynamo DB'],
+            'devops': ['Maven', 'Docker', 'Jenkins', 'AWS'],
+            'tools': ['GIT', 'SVN'],
+            'misc': ['SCRUM', 'GNU/Linux']
+        }
+        self.architecture = ['MVC', 'Serverless', 'Microservices']
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = Peppen()
 `````
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=peppen&show_icons=true&theme=radical" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peppen&layout=compact" />
-</a>
+
+
+
+
 
 
 
