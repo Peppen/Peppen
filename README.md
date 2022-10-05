@@ -7,17 +7,11 @@
  		<h3> <ul align="left">
 			<li>:man_technologist: <i>Software Developer</i> </li>
 	   	     	<li>:man_student: <i>Master Student in Computer Science at Unisa</i> </li>
-            	     	<li>:laughing: <i>Fun Fact:</i>
-				<ul> 
-					<li>:notes: <i>Music is Life</i> </li>
-					<li>:racing_car: <i>F1 is a passion</i> </li>
-				</ul>
-			</li>
 		      </ul>
 		</h3>
 	</div>
 	<div align="center">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/giuseppe-napoli-768563169/">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/giuseppe-napoli-768563169/">
 		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Peppen">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
@@ -27,6 +21,10 @@
 		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 	</div>
  </div>
+ 
+ <br>
+ <br>
+ <br>
 
 <h1 align="center"> :alien: About Skills </h1>
 
@@ -51,7 +49,6 @@ class Peppen:
 
     def __str__(self):
         return self.name
-
 
 if __name__ == '__main__':
     me = Peppen()
