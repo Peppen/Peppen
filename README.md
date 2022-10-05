@@ -7,6 +7,7 @@
  		<h3> <ul align="left">
 			<li>:man_technologist: <i>Software Developer</i> </li>
 	   	     	<li>:man_student: <i>Master Student in Computer Science at Unisa</i> </li>
+			<li>:thought_balloon: <i>"It's a weird life, but it's where I'm right now"<i> </li>
 		      </ul>
 		</h3>
 	</div>
