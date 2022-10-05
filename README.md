@@ -30,7 +30,7 @@
 
 <h1 align="center"> :alien: About Skills </h1>
 
-`````
+`````Python
 class Peppen:
 
     def __init__(self):
