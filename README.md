@@ -26,8 +26,65 @@
  <br>
  <br>
  <br>
+ 
+ ---
 
-<h1 align="center"> :alien: About Skills </h1>
+<table width="100%" align="center">
+
+ <tr>
+    <td width="60%">
+
+#### Version Control System
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Subversion](https://img.shields.io/badge/-Svn-05122A?style=flat&logo=subversion)
+
+#### Languages
+
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=Java&logoColor=orange)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+
+#### Database
+
+![Mongo DB](https://img.shields.io/badge/MongoDB-00000F?style=flat&logo=mongo&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=A8B9CC)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-316192?style=flat&logo=Dynamo&logoColor=green)
+
+#### IDE
+
+![Intellij](https://img.shields.io/badge/-IntelliJ-000?&logo=intelliJ)
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=visualstudio)
+
+#### Technologies
+
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Maven](https://img.shields.io/badge/Maven-3775A9?style=flat&logo=Maven&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3775A9?style=flat&logo=android&logoColor=white)
+
+
+
+     
+</td>
+    <td>
+
+<p>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=peppen&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+ </br>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=peppen"/>
+ </br>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peppen&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+</p>
+     
+  </td>
+ </tr>
+</table>
+
+---
 
 `````Python
 class Peppen:
@@ -54,6 +111,8 @@ class Peppen:
 if __name__ == '__main__':
     me = Peppen()
 `````
+
+
 
 
 
