@@ -102,7 +102,7 @@ class Peppen:
             'tools': ['GIT', 'SVN'],
             'misc': ['SCRUM', 'GNU/Linux']
         }
-        self.architecture = ['MVC', 'Serverless', 'Microservices']
+        self.architecture = ['MVC', 'Microservices']
 
     def __str__(self):
         return self.name
