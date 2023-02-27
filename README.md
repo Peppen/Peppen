@@ -62,7 +62,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Maven](https://img.shields.io/badge/Maven-3775A9?style=flat&logo=Maven&logoColor=white)
+![Mvn](https://img.shields.io/badge/Mvn-3775A9?style=flat&logo=Maven&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3775A9?style=flat&logo=android&logoColor=white)
 
 
@@ -98,7 +98,7 @@ class Peppen:
 	    'frameworks': ['Java Spring'],
 	    'mobileapp' : ['Android'],
             'database': ['MySQL','Mongo DB', 'Dynamo DB'],
-            'devops': ['Mvn', 'Docker', 'Jenkins', 'AWS'],
+            'devops': ['Maven', 'Docker', 'Jenkins', 'AWS'],
             'tools': ['GIT', 'SVN'],
             'misc': ['SCRUM', 'GNU/Linux']
         }
