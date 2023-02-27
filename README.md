@@ -62,7 +62,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Mvn](https://img.shields.io/badge/Mvn-3775A9?style=flat&logo=Maven&logoColor=white)
+![Maven](https://img.shields.io/badge/Mvn-3775A9?style=flat&logo=Maven&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3775A9?style=flat&logo=android&logoColor=white)
 
 
