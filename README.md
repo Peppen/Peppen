@@ -98,7 +98,7 @@ class Peppen:
 	    'frameworks': ['Java Spring'],
 	    'mobileapp' : ['Android'],
             'database': ['MySQL','Mongo DB', 'Dynamo DB'],
-            'devops': ['Maven', 'Docker', 'Jenkins', 'AWS'],
+            'devops': ['Mvn', 'Docker', 'Jenkins', 'AWS'],
             'tools': ['GIT', 'SVN'],
             'misc': ['SCRUM', 'GNU/Linux']
         }
