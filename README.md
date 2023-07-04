@@ -109,7 +109,7 @@ class Peppen:
             'database': ['MySQL','Mongo DB'],
             'devops': ['Maven', 'Docker', 'Jenkins', 'AWS'],
             'tools': ['GIT', 'SVN'],
-            'misc': ['SCRUM'].
+            'misc': ['SCRUM'],
 	    'Operating Systems': ['Windows', 'Linux']
         }
         self.architecture = ['MVC', 'Microservices']
