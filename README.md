@@ -55,7 +55,7 @@
 
 #### IDE
 
-![Intellij](https://img.shields.io/badge/-IntelliJ-#99cbff?&logo=intelliJ)
+![Intellij](https://img.shields.io/badge/-IntelliJ-99cbff?&logo=intelliJ)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=visualstudio)
