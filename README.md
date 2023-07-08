@@ -40,33 +40,33 @@
 
 #### Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=white)
 
 #### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3&logoColor=white)
 
 #### Database
 
-![Mongo DB](https://img.shields.io/badge/MongoDB-008000?style=flat&logo=mongo&logoColor=white)
+![Mongo DB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongo&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=A8B9CC)
 
 #### IDE
 
-![Intellij](https://img.shields.io/badge/-IntelliJ-99cbff?&logo=intelliJ)
+![Intellij](https://img.shields.io/badge/-IntelliJ-05122A?&logo=intelliJ)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=visualstudio)
 
 #### Technologies
 
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Maven](https://img.shields.io/badge/Maven-3775A9?style=flat&logo=Maven&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-05122A?&logo=Spring)
+![AWS](https://img.shields.io/badge/Amazon_AWS-05122A?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)
+![Maven](https://img.shields.io/badge/Maven-05122A?style=flat&logo=Maven&logoColor=white)
+![Android](https://img.shields.io/badge/Android-05122A?style=flat&logo=android&logoColor=white)
 
 #### Operation Systems
 
