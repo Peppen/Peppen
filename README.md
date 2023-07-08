@@ -70,8 +70,8 @@
 
 #### Operation Systems
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=black)
 
 
 
