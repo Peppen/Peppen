@@ -50,7 +50,7 @@
 
 #### Database
 
-![Mongo DB](https://img.shields.io/badge/MongoDB-00000F?style=flat&logo=mongo&logoColor=white)
+![Mongo DB](https://img.shields.io/badge/MongoDB-008000?style=flat&logo=mongo&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=A8B9CC)
 
 #### IDE
