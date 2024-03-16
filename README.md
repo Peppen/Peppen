@@ -28,10 +28,10 @@
  
  ---
 
-<table width="120%" align="center">
+<table width="100%" align="center">
 
  <tr>
-    <td width="70%">
+    <td width="60%">
 
 #### Version Control System
 
