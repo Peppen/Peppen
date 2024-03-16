@@ -40,13 +40,13 @@
 
 #### Programming Languages
 
-![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 #### Languages
-![HTML5](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Database
 
