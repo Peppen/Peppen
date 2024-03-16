@@ -41,7 +41,7 @@
 #### Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Python-FFD50G?style=for-the-badge&logo=java&logoColor=red)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 #### Languages
