@@ -113,11 +113,14 @@ class Peppen:
 	    'frontend': ['HTML5', 'CSS3'],
 	    'frameworks': ['Java Spring'],
 	    'mobileapp' : ['Android'],
-            'database': ['MySQL','Mongo DB'],
-            'devops': ['Maven', 'Docker', 'Jenkins', 'AWS'],
-            'tools': ['GIT', 'SVN'],
-            'misc': ['SCRUM'],
-	    'Operating Systems': ['Windows', 'Linux']
+            'build automation' : ['Maven'],
+            'database': ['MySQL', 'Mongo DB'],
+            'application deployments': ['Docker'],
+            'workflow platforms': ['Jenkins', 'Jira'],
+	    'cloud': ['Amazon AWS'],
+            'version control systems': ['GIT', 'SVN'],
+            'management framework': ['SCRUM'],
+	    'operating systems': ['Windows', 'Ubuntu']
         }
         self.architecture = ['MVC', 'Microservices']
 
