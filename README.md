@@ -58,20 +58,27 @@
 ![Intellij](https://img.shields.io/badge/-IntelliJ-05122A?&logo=intelliJ)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=visualstudio)
 
-#### Technologies
+#### Framework
 
 ![Spring](https://img.shields.io/badge/-Spring-05122A?&logo=Spring)
-![AWS](https://img.shields.io/badge/Amazon_AWS-05122A?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)
+
+#### Build Automation
+
 ![Maven](https://img.shields.io/badge/Maven-05122A?style=flat&logo=Maven&logoColor=white)
-![Android](https://img.shields.io/badge/Android-05122A?style=flat&logo=android&logoColor=white)
+
+#### Cloud
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-05122A?style=flat&logo=amazon-aws&logoColor=white)
+
+
+#### Application Deployments
+![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)
 
 #### Operation Systems
 
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=black)
 
 
 
