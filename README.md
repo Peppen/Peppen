@@ -31,7 +31,7 @@
 <table width="100%" align="center">
 
  <tr>
-    <td width="70%">
+    <td width="100%">
 
 #### Version Control System
 
