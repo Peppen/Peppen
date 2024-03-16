@@ -41,7 +41,7 @@
 #### Programming Languages
 
 ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=C&logoColor=white)
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=Python&logoColor=white)
 
 #### Languages
@@ -50,22 +50,18 @@
 
 #### Database
 
-![Mongo DB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongo&logoColor=white)
+![Mongo DB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=A8B9CC)
 
 #### IDE
 
-![Intellij](https://img.shields.io/badge/-IntelliJ-05122A?&logo=intelliJ)
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)
-![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)
+![Intellij](https://img.shields.io/badge/-IntelliJ-05122A?&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm&logoColor=white)
 
 #### Framework
 
-![Spring](https://img.shields.io/badge/-Spring-05122A?&logo=Spring)
-
-#### Build Automation
-
-![Maven](https://img.shields.io/badge/Maven-05122A?style=flat&logo=Maven&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-05122A?&logo=Spring&logoColor=white)
 
 #### Cloud
 
@@ -73,7 +69,11 @@
 
 
 #### Application Deployments
-![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)
+![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker&logoColor=white)
+
+#### Workflow Platforms
+![Jenkins](https://img.shields.io/badge/Jenkins-05122A?style=flat&logo=Jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-05122A?style=flat&logo=Jira&logoColor=black)
 
 #### Operation Systems
 
